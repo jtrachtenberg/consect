@@ -1,0 +1,29 @@
+Consect - a two player game to get your piece to a goal while preventing your opponent from doing so
+  by Jonathan Trachtenberg - all rights reserved
+  
+consectaneus, consectanea, consectaneum ADJ [DXXES]
+following eagerly after; hanging upon;
+
+Main Concept:
+  A grid with arrows (or other direction indicator, henceforth DI) at each intersection.  
+  A game piece will move along the grid lines following the direction of the last arrow passed through.
+  A goal piece will be on the grid, either stationary or also moving
+    Goal piece is moving at a slower rate than the player piece
+  Clicking on the DI will rotate it 90 degrees
+  Player builds a path from the piece to the goal
+  Single Player Mode (POC/alpha default)
+    A timer displays, when the timer runs out, all DIs will be randomized
+  Two Player Mode (release default)
+    Each player has their own piece and can click on any DI
+      Goal is to build a path for your piece AND disrupt the path of your opponent simultaneously
+  
+Target platforms:
+  Android
+  iOS
+  Web
+  
+Development Env:
+  Unity
+  
+
+    
