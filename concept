@@ -6,7 +6,7 @@ following eagerly after; hanging upon;
 
 Main Concept:
   A grid with arrows (or other direction indicator, henceforth DI) at each intersection.  
-  A game piece will move along the grid lines following the direction of the last arrow passed through.
+  A game piece will move along the grid lines following the direction of the last DI passed through.
   A goal piece will be on the grid, either stationary or also moving
     Goal piece is moving at a slower rate than the player piece
   Clicking on the DI will rotate it 90 degrees
